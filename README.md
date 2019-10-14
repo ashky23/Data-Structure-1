@@ -36,7 +36,7 @@ git clone https://github.com/your-username/Data-Structure.git
 
 3) Create a branch
 
-git checkout -b branch-name
+`git checkout -b branch-name`
 
 4) Make your changes (choose from any task below)
 5) Commit and push
